@@ -1,7 +1,7 @@
 
 
 <div align = "center"> 
-  <h1 align="center">Good to see you guys👋, I'm Nishanth M</h1>
+  <h1 align="center">Good to see you guys👋, I'm DmitriyM</h1>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47t3ua84z6i952uqwlimrg2kq9u9s7v33i4vw7pcnb&rid=giphy.gif&ct=g">
 </div> 
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://github.com/JOKER-NISHANTH
+https://github.com/ychkydyk
 
 -->
 
@@ -42,27 +42,13 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ychkydyk&label=Profile%20views&color=0e75b6&style=flat" alt="ychkydyk" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ychkydyk" alt="ychkydyk" /></a> </p>
 
-<!--
-<p align="left"> <a href="https://twitter.com/nishanth_blacky" target="blank"><img src="https://img.shields.io/twitter/follow/nishanth_blacky?logo=twitter&style=for-the-badge" alt="nishanth_blacky" /></a> </p>
--->
-[![Linkedin: Nishanth](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-m-3628881b0/)](https://www.linkedin.com/in/nishanth-m-3628881b0/)
+[![Linkedin: Ychkydyk](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-m-3628881b0/)](https://www.linkedin.com/in/nishanth-m-3628881b0/)
 [![GitHub Ychkydyk](https://img.shields.io/github/followers/ychkydyk?label=follow&style=social)](https://github.com/ychkydyk)
-
-<!--
-[![Twitter: Nishanth](https://img.shields.io/twitter/follow/nishanthmohan21?style=social)](https://twitter.com/nishanthmohan21)
-<a href="https://stackoverflow.com/users/15107684" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15107684" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/nishanth007/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/nishanth007/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nishanth_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nishanth_m" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/innocentnishanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="innocentnishanth" height="30" width="40" /></a>
-</p>
--->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nishanth_blacky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishanth_blacky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishanth-m-3628881b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishanth-m-3628881b0" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nisha_yalu_raja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nisha_yalu_raja" height="30" width="40" /></a>
+<a href="https://t.me/mantunamochil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ychkydyk" height="30" width="40" /></a>
+
   
 
 <h3 align="left">Languages and Tools:</h3>

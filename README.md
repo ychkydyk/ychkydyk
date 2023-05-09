@@ -42,9 +42,6 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ychkydyk&label=Profile%20views&color=0e75b6&style=flat" alt="ychkydyk" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ychkydyk" alt="ychkydyk" /></a> </p>
 
-[![Linkedin: Ychkydyk](https://img.shields.io/badge/-Nishanth-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-m-3628881b0/)](https://www.linkedin.com/in/nishanth-m-3628881b0/)
-[![GitHub Ychkydyk](https://img.shields.io/github/followers/ychkydyk?label=follow&style=social)](https://github.com/ychkydyk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/mantunamochil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ychkydyk" height="30" width="40" /></a>
@@ -69,7 +66,7 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 
 <!--Computer vision ( CV )--> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<!--
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -111,7 +108,6 @@ I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
--->
 
 ![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-nishanth&show_icons=true&theme=radical)
 

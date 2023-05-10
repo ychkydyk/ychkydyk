@@ -66,7 +66,7 @@ I Found interest in music, event-making, web-dev, AI </br>
 
   </br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nishanth&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nishanth&layout=compact&theme=radical)
 
 <!-- (https://github.com/mr-nishanth/github-readme-stats) -->
 

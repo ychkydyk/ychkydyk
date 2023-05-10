@@ -69,7 +69,6 @@ I Found interest in music, event-making, web-dev, AI </br>
 
   </br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ychkydyk&layout=compact&theme=radical)]
 
 <!-- (https://github.com/ychkydyk/github-readme-stats) -->
 

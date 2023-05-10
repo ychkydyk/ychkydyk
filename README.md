@@ -27,14 +27,8 @@ https://github.com/ychkydyk
 
 
 <p align="justify">
- 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More than  10 years old, 
+ 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I Found interest in music, event-making, web-dev, AI </br>
-I always look at the positive side of things , which allows me to be more creative and solve problems.
-I Love working in a team , working in a team makes things more productive. 
-Lastly I always love giving back , 
-I follow one rule which I created "<i><strong>Learn From Mistake</strong></i>".
-</p>
-
 
 - 🌱 I’m currently learning React , MERN Stack and Web Pentesting etc..
 

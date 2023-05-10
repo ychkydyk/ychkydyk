@@ -66,12 +66,12 @@ I Found interest in music, event-making, web-dev, AI </br>
 
   </br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nishanth&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ychkydyk&layout=compact&theme=radical)
 
-<!-- (https://github.com/mr-nishanth/github-readme-stats) -->
+<!-- (https://github.com/ychkydyk/github-readme-stats) -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ychkydyk&show_icons=true&theme=radical" alt="mr-nishanth" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ychkydyk&show_icons=true&theme=radical" alt="mr-nishanth" /></p>
 
 
 <!--

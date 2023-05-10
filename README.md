@@ -1,5 +1,6 @@
 
 
+
 <div align = "center"> 
   <h1 align="center">Good to see you guys👋, I'm DmitriyM</h1>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47t3ua84z6i952uqwlimrg2kq9u9s7v33i4vw7pcnb&rid=giphy.gif&ct=g">
@@ -61,16 +62,16 @@ I Found interest in music, event-making, web-dev, AI </br>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
-
-
-
-
-![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=ychkydyk_icons=true&theme=radical)
+![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-nishanth&show_icons=true&theme=radical)
 
   </br>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nishanth&layout=compact&theme=radical)]
 
-<!-- (https://github.com/ychkydyk/github-readme-stats) -->
+<!-- (https://github.com/mr-nishanth/github-readme-stats) -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nishanth&show_icons=true&theme=radical" alt="mr-nishanth" /></p>
 
 
 <!--

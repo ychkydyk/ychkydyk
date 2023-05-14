@@ -63,11 +63,6 @@ https://github.com/ychkydyk
 
   
 
-
-![Nishanth GitHub stats](https://github-readme-stats.vercel.app/api?username=ychkydyk&show_icons=true&theme=radical)
-
-  </br>
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ychkydyk&layout=compact&theme=radical)
 
 <!-- (https://github.com/ychkydyk/github-readme-stats) -->

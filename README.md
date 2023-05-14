@@ -29,7 +29,7 @@ https://github.com/ychkydyk
 <p align="left">
 ⚡I Found interest in music, event-making, web-dev, AI </br>
 
-🌱 Currently learning React, Next, MERN Stack and AI tools...</br>
+🌱 Currently using React, Next, MERN Stack and AI tools...</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
